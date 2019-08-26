@@ -1,0 +1,7 @@
+pip install django
+django-admin start project ABC
+cd ABC
+python manage.py runserver
+pythonanywhere.com
+mkvirtualenv --python=python3.7 myBlog
+pip install -U django==2.2.4
